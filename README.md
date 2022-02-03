@@ -5,13 +5,13 @@
 <br>
 
 <a href="https://github.com/niftyNither/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=niftyNither&show_icons=true&count_private=true&theme=algolia&bg_color=30,084d08,065e5b"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=niftyNither&show_icons=true&count_private=true&theme=onedark&bg_color=30,084d08,065e5b"/>
 </a>
 
 <br>
 
 <a href="https://github.com/niftyNither/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niftyNither&layout=compact&langs_count=10&theme=algolia&bg_color=30,084d08,065e5b"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niftyNither&layout=compact&langs_count=10&theme=onedark&bg_color=30,084d08,065e5b"/>
 </a>
 
 <!--
