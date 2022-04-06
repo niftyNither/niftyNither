@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### 🌱 Trust no one !
+🔥 Trust no one ! 🔥
 
 <br>
 
