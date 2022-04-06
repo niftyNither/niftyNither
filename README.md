@@ -1,17 +1,17 @@
 # Hi there 👋
 
-### 🌱 Let's Evolve !
+### 🌱 Trust no one !
 
 <br>
 
 <a href="https://github.com/niftyNither/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=niftyNither&show_icons=true&count_private=true&theme=&bg_color=2CC8F7,2CC8F7,5468FF&title_color=ADFEE0&text_color=FFF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=niftyNither&show_icons=true&count_private=true&theme=radical"/>
 </a>
 
 <br>
 
 <a href="https://github.com/niftyNither/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niftyNither&layout=compact&langs_count=10&theme=&bg_color=2CC8F7,2CC8F7,5468FF&title_color=ADFEE0&text_color=FFF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niftyNither&layout=compact&langs_count=10&theme=radical"/>
 </a>
 
 ### 📫 How to reach me: niftyNither@yahoo.com
